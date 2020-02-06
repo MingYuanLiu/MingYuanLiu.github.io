@@ -1,2 +1,2 @@
-# MingYuanLiu.github.io
+# MingYuanLiu
 my mainpage
